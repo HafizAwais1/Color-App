@@ -1,0 +1,21 @@
+button{
+    color:#000;
+    background-color: seagreen;
+    width: 100px;
+    height: 30px;
+}
+Form{
+    color: steelblue;
+    padding: 10px;
+}
+body{
+    color:header-color;
+}
+ul{
+    border: 2px solid lightslategrey;
+    display: block;
+    padding: -5px;
+    margin: 5px;
+    list-style-type: tick;
+     
+}
